@@ -1,6 +1,6 @@
 # AESLock
 
-An experimental AES-256 bit file encryption system built in Java.
+[In Progress] An experimental AES-256 bit file encryption system built in Java.
 
 Learn more about AES-256 bit encryption [here](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard).
 
